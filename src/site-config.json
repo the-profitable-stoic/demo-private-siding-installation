@@ -1,0 +1,572 @@
+{
+  "business": {
+    "name": "Private Siding Installation",
+    "phone": "+14704438993",
+    "category": "siding installer",
+    "city": "Atlanta",
+    "state": "GA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Atlanta's Trusted Siding Experts",
+      "heroSubline": "Protecting homes across Metro Atlanta with durable, expertly installed siding. We handle the tough jobs others avoid.",
+      "aboutTitle": "Siding Solutions Built to Last",
+      "aboutText": [
+        "Private Siding Installation started with a simple goal: provide Atlanta homeowners with siding solutions that stand up to our unique climate. We saw too many homes damaged by moisture, pests, and the relentless Georgia sun, and knew we could offer a better, more reliable service.",
+        "We're not just installers; we're problem-solvers. We assess every project individually, considering factors like the home's age, architectural style, and exposure to the elements. Our approach ensures a perfect fit and long-lasting performance.",
+        "We're deeply invested in the Atlanta community. We source materials locally whenever possible and partner with local organizations to support affordable housing initiatives. Our success is tied to the well-being of our neighbors."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Installation",
+          "description": "Precision and attention to detail in every project, guaranteed."
+        },
+        {
+          "title": "Durable Materials",
+          "description": "We use only top-quality siding designed to withstand Atlanta's climate."
+        },
+        {
+          "title": "Custom Solutions",
+          "description": "Tailored siding options to match your home's style and budget."
+        },
+        {
+          "title": "Warranty Protection",
+          "description": "Comprehensive warranties on materials and workmanship provide peace of mind."
+        }
+      ],
+      "ctaHeadline": "Protect Your Home Today",
+      "ctaSubline": "Get a free, no-obligation siding consultation. Discover the difference quality makes."
+    },
+    "services": [
+      {
+        "slug": "vinyl-siding-installation",
+        "name": "Vinyl Siding Installation",
+        "shortDescription": "Durable, affordable, and versatile vinyl siding expertly installed.",
+        "description": "Vinyl siding remains a popular choice for Atlanta homeowners due to its affordability, durability, and low maintenance. We offer a wide range of vinyl siding options, from traditional clapboard to modern vertical panels, in a variety of colors and textures. Our expert installation ensures a weather-tight seal, protecting your home from moisture damage and pests. We pay close attention to detail, properly sealing windows, doors, and other openings to prevent water intrusion. We understand Atlanta's climate and install vinyl siding with expansion joints to accommodate temperature fluctuations, preventing warping and buckling. We also handle the removal and disposal of old siding. With proper installation, vinyl siding can last for decades, providing lasting protection and curb appeal for your home.\n\nWe work with leading manufacturers to source the highest quality vinyl siding products. We can help you choose the right gauge, profile, and color to match your home's architectural style and your personal preferences. We also offer insulated vinyl siding options for enhanced energy efficiency, helping you save money on your heating and cooling bills. Our experienced installers are trained to handle even the most challenging installations, ensuring a flawless finish every time. From initial consultation to final inspection, we're committed to providing exceptional service and exceeding your expectations.\n\nWe also ensure that the J-channels around windows and doors are properly installed to prevent water damage, a common issue in Atlanta's humid climate.",
+        "process": [
+          "Step 1: Consultation & Estimate - We assess your needs and provide a detailed quote.",
+          "Step 2: Material Selection - Choose from our wide variety of vinyl siding options.",
+          "Step 3: Removal of Old Siding - We safely remove and dispose of your existing siding.",
+          "Step 4: Expert Installation - Our team meticulously installs your new vinyl siding."
+        ],
+        "benefits": [
+          "Affordable and cost-effective",
+          "Low maintenance and easy to clean",
+          "Wide variety of colors and styles",
+          "Durable and long-lasting"
+        ],
+        "faq": [
+          {
+            "question": "How long does vinyl siding last in Atlanta's climate?",
+            "answer": "With proper installation and maintenance, vinyl siding can last 30-40 years in Atlanta. Choosing a thicker gauge and a UV-resistant color will further extend its lifespan."
+          },
+          {
+            "question": "Does vinyl siding increase home value?",
+            "answer": "New vinyl siding can significantly increase your home's curb appeal and market value. Potential buyers appreciate the low maintenance and updated look."
+          },
+          {
+            "question": "Can you install vinyl siding over existing siding?",
+            "answer": "While it's possible in some cases, we typically recommend removing the old siding to ensure proper installation and prevent moisture problems. This allows us to inspect the sheathing and make any necessary repairs."
+          }
+        ]
+      },
+      {
+        "slug": "fiber-cement-siding-installation",
+        "name": "Fiber Cement Siding Installation",
+        "shortDescription": "Durable, fire-resistant fiber cement siding for lasting protection and beauty.",
+        "description": "Fiber cement siding offers exceptional durability, fire resistance, and aesthetic appeal, making it an excellent choice for Atlanta homes. Unlike wood, fiber cement is resistant to rot, pests, and fire, providing long-lasting protection against the elements. We specialize in the expert installation of fiber cement siding, ensuring a seamless and weather-tight finish. We understand the importance of proper sealing and flashing to prevent water intrusion, especially in Atlanta's humid climate. Our experienced installers are trained to handle the unique challenges of fiber cement installation, including proper cutting, fastening, and painting.\n\nWe offer a wide range of fiber cement siding styles, including clapboard, shingle, and vertical panels, to complement any architectural design. We can also help you choose the perfect color and finish to enhance your home's curb appeal. Fiber cement siding can be painted to match any color scheme and requires minimal maintenance, making it a practical and attractive option for busy homeowners. We use high-quality paints specifically designed for fiber cement to ensure long-lasting color and protection. We also offer pre-finished fiber cement siding options for added convenience.\n\nGiven Atlanta's propensity for heavy spring thunderstorms, we ensure that the sealing around windows and doors is immaculate. We also pay close attention to proper caulking to prevent any water penetration that could lead to mold or mildew issues.",
+        "process": [
+          "Step 1: Consultation & Design - Let's discuss styles and aesthetics for a perfect look.",
+          "Step 2: Precise Measurement - We ensure accurate cuts for minimal waste and a perfect fit.",
+          "Step 3: Careful Installation - Meticulous attention to detail ensures lasting protection.",
+          "Step 4: Professional Finish - Painting and sealing to protect against the elements."
+        ],
+        "benefits": [
+          "Exceptional durability and longevity",
+          "Fire-resistant and pest-resistant",
+          "Versatile styles and colors",
+          "Low maintenance requirements"
+        ],
+        "faq": [
+          {
+            "question": "How long does fiber cement siding last?",
+            "answer": "Fiber cement siding can last 50 years or more with proper installation and maintenance. It's a long-term investment that will protect your home for decades."
+          },
+          {
+            "question": "Is fiber cement siding more expensive than vinyl?",
+            "answer": "Yes, fiber cement siding is generally more expensive than vinyl siding. However, its superior durability and longevity make it a worthwhile investment for many homeowners."
+          },
+          {
+            "question": "Does fiber cement siding require painting?",
+            "answer": "Yes, fiber cement siding typically requires painting. We use high-quality paints specifically designed for fiber cement to ensure long-lasting color and protection. Pre-finished options are also available."
+          }
+        ]
+      },
+      {
+        "slug": "wood-siding-installation",
+        "name": "Wood Siding Installation",
+        "shortDescription": "Classic wood siding installation, blending natural beauty with expert craftsmanship.",
+        "description": "Wood siding offers a timeless aesthetic and natural beauty that enhances the character of any home. We specialize in the installation of various wood siding options, including clapboard, shingle, and board-and-batten. Our experienced carpenters are skilled in the art of wood siding installation, ensuring a precise and durable finish. We understand the importance of proper preparation, including priming and sealing, to protect the wood from moisture damage and pests. We also offer a variety of wood species, each with its own unique grain and color. We prioritize using rot-resistant wood species, like cedar and redwood, to combat Atlanta's humid climate.\n\nWe work closely with our clients to select the perfect wood siding option to complement their home's architectural style and personal preferences. We also offer custom milling and staining services to create a truly unique look. Wood siding requires regular maintenance, including painting or staining, to maintain its beauty and protect it from the elements. We offer comprehensive maintenance services to keep your wood siding looking its best for years to come. We recommend regular inspections to identify and address any potential problems early on.\n\nGiven the red clay soil around Atlanta, we pay special attention to proper drainage around the foundation of homes with wood siding. This helps prevent moisture from wicking up into the siding and causing rot.",
+        "process": [
+          "Step 1: Wood Selection & Design - Choosing the right wood and style for your home.",
+          "Step 2: Precise Cutting & Fitting - Expert craftsmanship ensures a perfect match.",
+          "Step 3: Protective Priming & Sealing - Safeguarding against moisture and pests.",
+          "Step 4: Finishing & Staining - Enhancing the natural beauty of the wood."
+        ],
+        "benefits": [
+          "Timeless aesthetic and natural beauty",
+          "Variety of wood species and styles",
+          "Custom milling and staining options",
+          "Increases home value and curb appeal"
+        ],
+        "faq": [
+          {
+            "question": "How often does wood siding need to be painted or stained?",
+            "answer": "Wood siding typically needs to be painted or stained every 3-5 years, depending on the type of wood, the climate, and the quality of the paint or stain."
+          },
+          {
+            "question": "What type of wood is best for siding in Atlanta?",
+            "answer": "Cedar and redwood are excellent choices for siding in Atlanta due to their natural resistance to rot and insects. They also hold paint and stain well."
+          },
+          {
+            "question": "How can I prevent moisture damage to my wood siding?",
+            "answer": "Proper priming and sealing are essential to prevent moisture damage to wood siding. Regular inspections and prompt repairs can also help extend its lifespan."
+          }
+        ]
+      },
+      {
+        "slug": "siding-repair",
+        "name": "Siding Repair Services",
+        "shortDescription": "Comprehensive siding repair to protect your home from the elements.",
+        "description": "Damaged siding can compromise your home's protection and aesthetic appeal. We offer comprehensive siding repair services to address a wide range of issues, including cracks, holes, rot, and loose panels. Our experienced technicians are skilled in repairing all types of siding, from vinyl to fiber cement to wood. We understand the importance of timely repairs to prevent further damage and maintain your home's value. We prioritize using matching materials and colors to ensure a seamless repair.\n\nWe begin every repair project with a thorough inspection to identify the extent of the damage and determine the best course of action. We provide detailed estimates and explain the repair process clearly. We also offer preventative maintenance services to help you avoid future siding problems. We understand the challenges posed by Atlanta's climate and take extra precautions to protect your home from moisture damage and pests. We are equipped to handle everything from small patch jobs to large-scale repairs.\n\nGiven the prevalence of older homes in neighborhoods like Virginia-Highland and Inman Park, we are adept at repairing and matching historic siding profiles.",
+        "process": [
+          "Step 1: Detailed Inspection - Identifying all areas of damage and potential issues.",
+          "Step 2: Material Matching - Sourcing identical or complementary materials for seamless repairs.",
+          "Step 3: Expert Repair - Skillful restoration to maintain structural integrity.",
+          "Step 4: Protective Sealing - Ensuring water-tight protection against the elements."
+        ],
+        "benefits": [
+          "Prevents further damage and costly repairs",
+          "Maintains home value and curb appeal",
+          "Extends the lifespan of your siding",
+          "Protects against moisture and pests"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my siding needs to be repaired?",
+            "answer": "Signs of siding damage include cracks, holes, rot, loose panels, and discoloration. If you notice any of these issues, it's important to have your siding inspected by a professional."
+          },
+          {
+            "question": "Can you match the color of my existing siding?",
+            "answer": "Yes, we can match the color of your existing siding using advanced color-matching technology. We strive to provide seamless repairs that blend in perfectly."
+          },
+          {
+            "question": "How long does siding repair take?",
+            "answer": "The duration of siding repair depends on the extent of the damage and the type of siding. We provide estimated timelines during the initial consultation."
+          }
+        ]
+      },
+      {
+        "slug": "siding-replacement",
+        "name": "Complete Siding Replacement",
+        "shortDescription": "Transform your home with new, high-quality siding.",
+        "description": "When siding is beyond repair, complete siding replacement is the best option to protect your home and enhance its curb appeal. We offer comprehensive siding replacement services, from initial consultation to final inspection. We guide you through the selection process, helping you choose the perfect siding material, style, and color to match your home's architecture and your personal preferences. We handle the removal and disposal of your old siding, and we ensure proper installation of your new siding to provide lasting protection and beauty.\n\nWe understand the importance of proper preparation before siding replacement. We inspect the sheathing and make any necessary repairs to ensure a solid foundation for your new siding. We also install a weather-resistant barrier to protect your home from moisture damage. Our experienced installers are trained to handle even the most challenging siding replacement projects. We pay close attention to detail and strive to exceed your expectations. We can also advise on energy-efficient siding options to lower utility bills.\n\nGiven the diverse architectural styles found in Atlanta, from Craftsman bungalows to modern infill, we can accommodate any siding replacement project.",
+        "process": [
+          "Step 1: Consultation & Design - Discuss your vision and select the perfect siding.",
+          "Step 2: Old Siding Removal - Safe and efficient removal of existing materials.",
+          "Step 3: Sheathing Inspection & Repair - Ensuring a solid foundation for new siding.",
+          "Step 4: Expert Installation - Precise installation for lasting protection and beauty."
+        ],
+        "benefits": [
+          "Enhanced curb appeal and home value",
+          "Improved energy efficiency",
+          "Increased protection from the elements",
+          "Long-lasting durability"
+        ],
+        "faq": [
+          {
+            "question": "How long does siding replacement take?",
+            "answer": "The duration of siding replacement depends on the size of your home and the type of siding. We provide estimated timelines during the initial consultation."
+          },
+          {
+            "question": "What is the best type of siding for my home?",
+            "answer": "The best type of siding for your home depends on your budget, your aesthetic preferences, and your local climate. We can help you weigh the pros and cons of each option."
+          },
+          {
+            "question": "Do I need a permit for siding replacement?",
+            "answer": "Yes, you typically need a permit for siding replacement in Atlanta. We can handle the permit application process for you."
+          }
+        ]
+      },
+      {
+        "slug": "soffit-and-fascia-repair",
+        "name": "Soffit and Fascia Repair & Replacement",
+        "shortDescription": "Protect your roof and home with expert soffit and fascia services.",
+        "description": "Soffit and fascia play a crucial role in protecting your roof and home from moisture, pests, and the elements. Damaged or deteriorated soffit and fascia can lead to serious problems, including water damage, mold growth, and structural damage. We offer comprehensive soffit and fascia repair and replacement services to keep your home in top condition. Our experienced technicians are skilled in working with all types of soffit and fascia materials, including wood, vinyl, and aluminum. We understand the importance of proper ventilation to prevent moisture buildup and maintain a healthy indoor environment.\n\nWe begin every project with a thorough inspection to identify the extent of the damage and determine the best course of action. We provide detailed estimates and explain the repair or replacement process clearly. We also offer preventative maintenance services to help you avoid future soffit and fascia problems. We ensure proper sealing and flashing to prevent water intrusion, especially in Atlanta's humid climate. We can also recommend and install bird blocks to keep pests out of your attic. We ensure that the new soffit and fascia match the existing style and color of your home.\n\nGiven the prevalence of older homes in Atlanta, we have extensive experience in repairing and replacing historic soffit and fascia details.",
+        "process": [
+          "Step 1: Thorough Inspection - Assessing damage and identifying potential issues.",
+          "Step 2: Material Selection - Choosing durable and weather-resistant materials.",
+          "Step 3: Expert Repair or Replacement - Precise installation for lasting protection.",
+          "Step 4: Protective Sealing - Ensuring a water-tight barrier against the elements."
+        ],
+        "benefits": [
+          "Protects your roof and home from moisture and pests",
+          "Prevents water damage and mold growth",
+          "Maintains proper ventilation",
+          "Enhances curb appeal"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my soffit and fascia need to be repaired or replaced?",
+            "answer": "Signs of soffit and fascia damage include rot, peeling paint, sagging, and insect infestation. If you notice any of these issues, it's important to have your soffit and fascia inspected by a professional."
+          },
+          {
+            "question": "What are the benefits of proper soffit ventilation?",
+            "answer": "Proper soffit ventilation helps to prevent moisture buildup in your attic, which can lead to mold growth and structural damage. It also helps to regulate the temperature in your attic, reducing energy costs."
+          },
+          {
+            "question": "Can you match the color of my existing soffit and fascia?",
+            "answer": "Yes, we can match the color of your existing soffit and fascia using advanced color-matching technology. We strive to provide seamless repairs that blend in perfectly."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Marietta",
+        "slug": "marietta-ga",
+        "state": "GA",
+        "content": "Private Siding Installation is proud to serve the residents of Marietta, GA, providing top-quality siding installation and repair services. Marietta, with its established neighborhoods dating back to the 1960s and 70s, features a mix of architectural styles that require a keen understanding of siding options to maintain their charm and value.\n\nOur team is experienced in working with various siding materials, including vinyl, fiber cement, and wood, ensuring that your home is protected from the hot, humid Georgia summers and occasional severe weather. We understand the unique needs of Marietta homeowners and are committed to delivering exceptional craftsmanship and customer service.",
+        "localContext": "Marietta's blend of historic charm and modern living requires siding solutions that respect the past while embracing the future. We are familiar with the specific challenges and opportunities presented by homes in areas like East Cobb and the Marietta Square.",
+        "nearbyAreas": [
+          "Smyrna",
+          "Kennesaw",
+          "Roswell"
+        ]
+      },
+      {
+        "city": "Roswell",
+        "slug": "roswell-ga",
+        "state": "GA",
+        "content": "Private Siding Installation is dedicated to providing superior siding services to the residents of Roswell, GA. Known for its upscale subdivisions developed in the 1980s and 90s, Roswell boasts beautiful homes that deserve the best in siding protection and aesthetics.\n\nWe offer a wide range of siding options to complement the architectural styles prevalent in Roswell, including vinyl, fiber cement, and wood siding. Our expert installers ensure that your siding is properly installed to withstand the hot, humid Georgia climate and enhance your home's curb appeal. We pride ourselves on our attention to detail and commitment to customer satisfaction.",
+        "localContext": "Roswell's focus on upscale living demands siding solutions that are both durable and visually appealing. We have extensive experience working with homes in areas like Country Club of Roswell and the historic district.",
+        "nearbyAreas": [
+          "Alpharetta",
+          "Marietta",
+          "Sandy Springs"
+        ]
+      },
+      {
+        "city": "Alpharetta",
+        "slug": "alpharetta-ga",
+        "state": "GA",
+        "content": "Private Siding Installation is your trusted partner for all your siding needs in Alpharetta, GA. With its upscale developments from the 1990s and 2000s, Alpharetta is a city of beautiful homes that deserve the highest quality siding.\n\nWe specialize in providing siding solutions that not only protect your home from the elements but also enhance its value and curb appeal. From vinyl and fiber cement to wood and composite siding, we offer a wide selection of materials to suit your style and budget. Our experienced team is committed to delivering exceptional workmanship and customer service.",
+        "localContext": "Alpharetta's newer developments require siding solutions that are both modern and energy-efficient. We are familiar with the specific needs of homes in areas like Windward and Milton.",
+        "nearbyAreas": [
+          "Roswell",
+          "Johns Creek",
+          "Milton"
+        ]
+      },
+      {
+        "city": "Johns Creek",
+        "slug": "johns-creek-ga",
+        "state": "GA",
+        "content": "Private Siding Installation proudly serves the residents of Johns Creek, GA, offering expert siding installation and repair services. Johns Creek, known for its upscale subdivisions built in the 1990s and 2000s, features homes that benefit from high-quality siding to maintain their value and appearance.\n\nWe provide a comprehensive range of siding options, including vinyl, fiber cement, and wood, ensuring that your home is well-protected from the hot, humid Georgia climate. Our skilled installers are dedicated to delivering exceptional craftsmanship and customer satisfaction, ensuring that your siding project is completed to the highest standards.",
+        "localContext": "Johns Creek's upscale neighborhoods require siding solutions that are both aesthetically pleasing and durable. We understand the specific preferences of homeowners in areas like St. Ives and the River Club.",
+        "nearbyAreas": [
+          "Alpharetta",
+          "Suwanee",
+          "Duluth"
+        ]
+      },
+      {
+        "city": "Kennesaw",
+        "slug": "kennesaw-ga",
+        "state": "GA",
+        "content": "Private Siding Installation is committed to providing top-notch siding services to the residents of Kennesaw, GA. With its suburban developments from the 1980s and 90s, Kennesaw offers a variety of home styles that benefit from quality siding installation and maintenance.\n\nWe offer a wide range of siding materials, including vinyl, fiber cement, and wood, to suit your home's architectural style and your budget. Our experienced team ensures that your siding is properly installed to withstand the hot, humid Georgia summers and protect your home from the elements. We are dedicated to providing exceptional customer service and exceeding your expectations.",
+        "localContext": "Kennesaw's established neighborhoods require siding solutions that are both cost-effective and long-lasting. We have extensive experience working with homes in areas like Downtown Kennesaw and near Kennesaw Mountain.",
+        "nearbyAreas": [
+          "Marietta",
+          "Acworth",
+          "Woodstock"
+        ]
+      },
+      {
+        "city": "Smyrna",
+        "slug": "smyrna-ga",
+        "state": "GA",
+        "content": "Private Siding Installation offers expert siding solutions in Smyrna, GA. Smyrna's diverse housing, from historic homes to new developments, requires a knowledgeable siding contractor. We understand the unique challenges and opportunities presented by Smyrna's varied architecture.\n\nOur team is skilled in installing and repairing all types of siding, including vinyl, fiber cement, and wood. We're dedicated to providing durable, beautiful siding that protects your home and enhances its curb appeal. We're committed to excellent service and customer satisfaction.",
+        "localContext": "Smyrna blends historic charm with modern growth, requiring siding that complements both. We are familiar working in areas from the Smyrna Market Village to older neighborhoods near downtown.",
+        "nearbyAreas": [
+          "Marietta",
+          "Vinings",
+          "Atlanta"
+        ]
+      },
+      {
+        "city": "Sandy Springs",
+        "slug": "sandy-springs-ga",
+        "state": "GA",
+        "content": "Private Siding Installation is proud to serve Sandy Springs, GA, providing top-quality siding services for homes of all styles. Sandy Springs' mix of established neighborhoods and newer constructions calls for a siding contractor with broad expertise.\n\nWe offer a wide range of siding options, including vinyl, fiber cement, and wood siding, to match your home's aesthetic and your budget. Our experienced installers ensure your siding is properly installed to withstand Georgia's climate. We focus on delivering exceptional craftsmanship and customer service.",
+        "localContext": "Sandy Springs' diverse housing market requires siding solutions tailored to each neighborhood, from riverfront properties to traditional subdivisions. We understand the local aesthetic.",
+        "nearbyAreas": [
+          "Roswell",
+          "Dunwoody",
+          "Atlanta"
+        ]
+      },
+      {
+        "city": "Dunwoody",
+        "slug": "dunwoody-ga",
+        "state": "GA",
+        "content": "Private Siding Installation is your trusted partner for siding needs in Dunwoody, GA. Dunwoody features a mix of mid-century homes and newer construction, requiring a siding contractor with versatility. We can handle any siding project, big or small.\n\nWe specialize in providing siding solutions that protect your home from the elements and enhance its beauty. From vinyl to fiber cement and wood, we offer a wide selection of materials. Our team is committed to exceptional workmanship and customer satisfaction.",
+        "localContext": "Dunwoody's blend of established neighborhoods and commercial areas requires siding solutions that are both practical and attractive. We're experienced in working on homes throughout Dunwoody.",
+        "nearbyAreas": [
+          "Sandy Springs",
+          "Roswell",
+          "Brookhaven"
+        ]
+      },
+      {
+        "city": "Duluth",
+        "slug": "duluth-ga",
+        "state": "GA",
+        "content": "Private Siding Installation is dedicated to serving Duluth, GA, with expert siding installation and repair. Duluth's mix of established neighborhoods and newer developments makes it a great place to live and a place where quality siding is important.\n\nWe provide a comprehensive range of siding options, including vinyl, fiber cement, and wood. Our skilled installers ensure that your siding project is completed to the highest standards, protecting your home for years to come. We are known for our attention to detail and commitment to customer satisfaction.",
+        "localContext": "Duluth's vibrant community and diverse housing styles require siding solutions tailored to each home. We understand the unique challenges and opportunities presented by homes in this area.",
+        "nearbyAreas": [
+          "Johns Creek",
+          "Suwanee",
+          "Norcross"
+        ]
+      },
+      {
+        "city": "Suwanee",
+        "slug": "suwanee-ga",
+        "state": "GA",
+        "content": "Private Siding Installation offers superior siding services to the residents of Suwanee, GA. Suwanee's family-friendly atmosphere and beautiful homes make it a great place to live. Quality siding is essential for protecting your investment and enhancing your home's curb appeal.\n\nWe offer a wide range of siding materials, including vinyl, fiber cement, and wood. Our experienced team ensures that your siding is properly installed to withstand the Georgia weather. We are dedicated to providing exceptional customer service and exceeding your expectations.",
+        "localContext": "Suwanee's well-maintained neighborhoods require siding solutions that uphold the community's high standards. We are familiar with the specific needs of homes in this area.",
+        "nearbyAreas": [
+          "Johns Creek",
+          "Duluth",
+          "Buford"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Vinyl Siding Installation",
+        "text": "Private Siding Installation did an amazing job on our home in Buckhead! The crew was professional, efficient, and the new vinyl siding looks fantastic. They even cleaned up meticulously after the job. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Siding Repair Services",
+        "text": "We had some storm damage to our fiber cement siding in Midtown, and Private Siding Installation responded quickly and provided a fair estimate. The repair work was excellent, and you can't even tell there was any damage. Only reason for 4 stars is communication could have been a bit better.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Fiber Cement Siding Installation",
+        "text": "We chose Private Siding Installation to install fiber cement siding on our new construction home in Inman Park. They were very knowledgeable about the product and provided excellent installation. The result is a beautiful and durable exterior that we're proud of.",
+        "date": "2025-01-08"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Soffit and Fascia Repair",
+        "text": "Excellent work repairing our soffit and fascia. We had some woodpecker damage, and they fixed it quickly and professionally. The team was courteous and cleaned up everything afterward.",
+        "date": "2024-09-05"
+      },
+      {
+        "name": "Ashley P.",
+        "rating": 5,
+        "service": "Wood Siding Installation",
+        "text": "We had wood siding installed on our craftsman bungalow. It looks amazing. Private Siding Installation did a great job, and we are very happy with the result. The team was very professional and respectful of our property. They even helped us choose the perfect stain color!",
+        "date": "2025-02-12"
+      },
+      {
+        "name": "Robert S.",
+        "rating": 4,
+        "service": "Siding Replacement",
+        "text": "We recently had our old siding replaced by Private Siding Installation. The process was smooth and efficient, and the new siding looks great. There were a couple of minor issues, but they were quickly resolved. Overall, a positive experience.",
+        "date": "2024-12-28"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Atlanta Siding Installation | Expert Services",
+        "description": "Durable siding solutions for Atlanta homes. Vinyl, fiber cement, wood. Expert installation & repair. Free quotes!"
+      },
+      "about": {
+        "title": "About Private Siding Installation",
+        "description": "Learn about our commitment to quality siding solutions in Atlanta. Experienced installers, local expertise."
+      },
+      "services": {
+        "title": "Siding Services | Atlanta, GA",
+        "description": "Comprehensive siding services in Atlanta: installation, repair, replacement. Vinyl, fiber cement, wood. Free estimates!"
+      },
+      "contact": {
+        "title": "Contact Us | Atlanta Siding Experts",
+        "description": "Get a free siding consultation in Atlanta. Contact Private Siding Installation today!"
+      },
+      "reviews": {
+        "title": "Customer Reviews | Atlanta Siding",
+        "description": "Read what our satisfied customers are saying about Private Siding Installation in Atlanta. Trusted siding professionals."
+      },
+      "service-areas": {
+        "title": "Service Areas | Atlanta Siding",
+        "description": "Private Siding Installation provides expert siding services throughout Metro Atlanta. See our service area map."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "vinyl-siding-installation": "/images/service-vinyl-siding-installation.webp",
+      "fiber-cement-siding-installation": "/images/service-fiber-cement-siding-installation.webp",
+      "wood-siding-installation": "/images/service-wood-siding-installation.webp",
+      "siding-repair": "/images/service-siding-repair.webp",
+      "siding-replacement": "/images/service-siding-replacement.webp",
+      "soffit-and-fascia-repair": "/images/service-soffit-and-fascia-repair.webp"
+    },
+    "servicesResponsive": {
+      "vinyl-siding-installation": {
+        "src": "/images/service-vinyl-siding-installation.webp",
+        "srcset": "/images/service-vinyl-siding-installation-400w.webp 400w, /images/service-vinyl-siding-installation-800w.webp 800w, /images/service-vinyl-siding-installation-1200w.webp 1200w, /images/service-vinyl-siding-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fiber-cement-siding-installation": {
+        "src": "/images/service-fiber-cement-siding-installation.webp",
+        "srcset": "/images/service-fiber-cement-siding-installation-400w.webp 400w, /images/service-fiber-cement-siding-installation-800w.webp 800w, /images/service-fiber-cement-siding-installation-1200w.webp 1200w, /images/service-fiber-cement-siding-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "wood-siding-installation": {
+        "src": "/images/service-wood-siding-installation.webp",
+        "srcset": "/images/service-wood-siding-installation-400w.webp 400w, /images/service-wood-siding-installation-800w.webp 800w, /images/service-wood-siding-installation-1200w.webp 1200w, /images/service-wood-siding-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "siding-repair": {
+        "src": "/images/service-siding-repair.webp",
+        "srcset": "/images/service-siding-repair-400w.webp 400w, /images/service-siding-repair-800w.webp 800w, /images/service-siding-repair-1200w.webp 1200w, /images/service-siding-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "siding-replacement": {
+        "src": "/images/service-siding-replacement.webp",
+        "srcset": "/images/service-siding-replacement-400w.webp 400w, /images/service-siding-replacement-800w.webp 800w, /images/service-siding-replacement-1200w.webp 1200w, /images/service-siding-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "soffit-and-fascia-repair": {
+        "src": "/images/service-soffit-and-fascia-repair.webp",
+        "srcset": "/images/service-soffit-and-fascia-repair-400w.webp 400w, /images/service-soffit-and-fascia-repair-800w.webp 800w, /images/service-soffit-and-fascia-repair-1200w.webp 1200w, /images/service-soffit-and-fascia-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
